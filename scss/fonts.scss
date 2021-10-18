@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Helvetica Now Display';
+    src: local('Helvetica Now Display Regular'), local('Helvetica-Now-Display-Regular'),
+        url('../fonts/HelveticaNowDisplay-Regular/HelveticaNowDisplay-Regular.woff2') format('woff2'),
+        url('../fonts/HelveticaNowDisplay-Regular/HelveticaNowDisplay-Regular.woff') format('woff'),
+        url('../fonts/HelveticaNowDisplay-Regular/HelveticaNowDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Helvetica Now Display';
+    src: local('Helvetica Now Display Bold'), local('Helvetica-Now-Display-Bold'),
+        url('../fonts/HelveticaNowDisplay-Bold/HelveticaNowDisplay-Bold.woff2') format('woff2'),
+        url('../fonts/HelveticaNowDisplay-Bold/HelveticaNowDisplay-Bold.woff') format('woff'),
+        url('../fonts/HelveticaNowDisplay-Bold/HelveticaNowDisplay-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Helvetica Now Display';
+    src: local('Helvetica Now Display Ext Blk'), local('Helvetica-Now-Display-Ext-Blk'),
+        url('../fonts/HelveticaNowDisplay-ExtBlk/HelveticaNowDisplay-ExtBlk.woff2') format('woff2'),
+        url('../fonts/HelveticaNowDisplay-ExtBlk/HelveticaNowDisplay-ExtBlk.woff') format('woff'),
+        url('../fonts/HelveticaNowDisplay-ExtBlk/HelveticaNowDisplay-ExtBlk.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
